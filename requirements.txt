@@ -14,3 +14,4 @@ pymupdf4llm>=0.0.8
 anthropic==0.40.0    
 Pillow>=9.0.0  
 beautifulsoup4>=4.9.3
+gcs-cws-activities-sdk>=0.2.2,<2.0.0
